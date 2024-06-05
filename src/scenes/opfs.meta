@@ -1,0 +1,82 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "get root",
+      "targetTime": 7.5
+    },
+    {
+      "name": "get file",
+      "targetTime": 22.406151688142327
+    },
+    {
+      "name": "create=true",
+      "targetTime": 40.453644276759334
+    },
+    {
+      "name": "get downloads/file.pdf",
+      "targetTime": 53.41984900060671
+    },
+    {
+      "name": "get folder",
+      "targetTime": 65.80269174434392
+    },
+    {
+      "name": "get file.pdf",
+      "targetTime": 80.87467974419944
+    },
+    {
+      "name": "get file.pdf readable",
+      "targetTime": 96.71832465040308
+    },
+    {
+      "name": "readable properties",
+      "targetTime": 102.2660100138848
+    },
+    {
+      "name": "show other methods",
+      "targetTime": 112.40231902007163
+    },
+    {
+      "name": "create writable",
+      "targetTime": 121.13420219637987
+    },
+    {
+      "name": "write to writable",
+      "targetTime": 128.57939437071684
+    },
+    {
+      "name": "close writable",
+      "targetTime": 132.5499392217674
+    },
+    {
+      "name": "deletion file",
+      "targetTime": 140.26662348572032
+    },
+    {
+      "name": "show removed fs",
+      "targetTime": 149.640876569974
+    },
+    {
+      "name": "nuke folder",
+      "targetTime": 154.640876569974
+    },
+    {
+      "name": "show file handle remove",
+      "targetTime": 173.70877290626066
+    },
+    {
+      "name": "show awaits",
+      "targetTime": 181.41747170263957
+    },
+    {
+      "name": "in async func ",
+      "targetTime": 187.80330667437858
+    },
+    {
+      "name": "end opfs",
+      "targetTime": 203.7437879844327
+    }
+  ],
+  "seed": 1214346924
+}

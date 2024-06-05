@@ -1,0 +1,102 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "hide blog",
+      "targetTime": 17.429675560814005
+    },
+    {
+      "name": "show new FSworker",
+      "targetTime": 18.46068277951678
+    },
+    {
+      "name": "show postMessage",
+      "targetTime": 23.491225154277608
+    },
+    {
+      "name": "show addEventListener",
+      "targetTime": 28.218718363223598
+    },
+    {
+      "name": "show worker code",
+      "targetTime": 33.53114560398396
+    },
+    {
+      "name": "adv-1 root handle",
+      "targetTime": 36.845665014001895
+    },
+    {
+      "name": "adv-2 create sync access handle",
+      "targetTime": 39.67760163860136
+    },
+    {
+      "name": "adv-3 truncate",
+      "targetTime": 51.41750490342876
+    },
+    {
+      "name": "adv-4 write",
+      "targetTime": 56.38903163156806
+    },
+    {
+      "name": "adv-5 flush",
+      "targetTime": 58.353944815517394
+    },
+    {
+      "name": "adv-6 close",
+      "targetTime": 62.06688912980973
+    },
+    {
+      "name": "adv-7 inform",
+      "targetTime": 65.60851928694936
+    },
+    {
+      "name": "adv-n main",
+      "targetTime": 73.93522968406695
+    },
+    {
+      "name": "declare path const",
+      "targetTime": 87.29447060983067
+    },
+    {
+      "name": "show recursive func",
+      "targetTime": 91.29447060983067
+    },
+    {
+      "name": "use recursive function",
+      "targetTime": 115.22180580238447
+    },
+    {
+      "name": "show switch statement",
+      "targetTime": 119.90942667692596
+    },
+    {
+      "name": "show basic type hinting",
+      "targetTime": 125.99546011853998
+    },
+    {
+      "name": "show array buffer conversion",
+      "targetTime": 135.28397677348093
+    },
+    {
+      "name": "simple main thread modification",
+      "targetTime": 146.93444295665074
+    },
+    {
+      "name": "show worker final code",
+      "targetTime": 165.5675170007003
+    },
+    {
+      "name": "show extension",
+      "targetTime": 178.8139695707609
+    },
+    {
+      "name": "hide ext",
+      "targetTime": 189.4865260084986
+    },
+    {
+      "name": "salutation",
+      "targetTime": 190.7461811088625
+    }
+  ],
+  "seed": 2671181425
+}
